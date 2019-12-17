@@ -34,6 +34,8 @@
 
 #### 五、修改根目录下的agent_lib/defined.php的AGENT_APPID和AGENT_APPKEY(当然你可以直接使用/install/进行自动化安装)
 
+![](https://raw.githubusercontent.com/wechaturl/Wechat_Weixin_QQ_domain_fangfeng_system_code/master/own_static/guide_documents/install_page.png)
+
 > 免费获取AGENT_APPID和AGENT_APPKEY
 
 > 请到https://www.wechaturl.us/manage/ 去查看,如果没有，只需要免费申请一个就可以了。申请地址：http://www.wechaturl.us/get_free_source_code.html
